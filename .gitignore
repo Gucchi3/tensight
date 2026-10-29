@@ -1,0 +1,27 @@
+# いったん、すべてを上げない
+/*
+
+# 上げるもの（! で、上の除外を取り消す）
+!/.gitignore
+!/LICENSE
+!/README.md
+!/src/
+
+# docs は使い方ガイドと、その画像（docs/guide）だけ
+!/docs/
+/docs/*
+!/docs/使い方ガイド.md
+!/docs/guide/
+
+# examples は cifar10 の model・utils・main.py だけ
+!/examples/
+/examples/*
+!/examples/cifar10/
+/examples/cifar10/*
+!/examples/cifar10/main.py
+!/examples/cifar10/model/
+!/examples/cifar10/utils/
+
+# 上げるフォルダの中でも、Python のキャッシュは上げない
+__pycache__/
+*.py[cod]
