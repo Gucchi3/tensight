@@ -1,6 +1,5 @@
 // @file tensight.js
 // @brief Viewer for tensight record folders (C-06)
-// @author Kohei Yamaguchi, Claude
 //
 // The page is opened from file:// without a server, so it uses classic scripts only.
 // Each data file holds one call per line, like tensight.rec({...}); (02c, EXT-01).

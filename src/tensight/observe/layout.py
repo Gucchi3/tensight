@@ -1,6 +1,5 @@
 # @file layout.py
 # @brief How a map pattern is chosen when it is "auto" (02a 4章, ADR-012)
-# @author Kohei Yamaguchi, Claude
 
 from torch import nn
 

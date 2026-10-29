@@ -1,6 +1,5 @@
 // @file colormaps.js
 // @brief Colormap tables (256 colors each) for the tensight viewer
-// @author Kohei Yamaguchi, Claude
 //
 // Each value is 256 colors written as RRGGBB hex, from low (0) to high (255).
 // Sources and licenses:

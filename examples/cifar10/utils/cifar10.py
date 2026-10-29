@@ -1,6 +1,5 @@
 # @file cifar10.py
 # @brief Download CIFAR-10 (the binary version, so no pickle is loaded), read it into tensors, and make random crops and flips
-# @author Kohei Yamaguchi, Claude
 
 from pathlib import Path
 

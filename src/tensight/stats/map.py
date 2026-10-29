@@ -1,6 +1,5 @@
 # @file map.py
 # @brief The map of absolute values (FR-035, ADR-009)
-# @author Kohei Yamaguchi, Claude
 
 import torch
 

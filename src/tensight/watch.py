@@ -1,6 +1,5 @@
 # @file watch.py
 # @brief Put the observation points on a model (02a API-02)
-# @author Kohei Yamaguchi, Claude
 
 from torch import nn
 

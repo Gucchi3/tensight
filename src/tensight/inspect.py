@@ -1,6 +1,5 @@
 # @file inspect.py
 # @brief Summarize one tensor without a run (02a API-09, ADR-014)
-# @author Kohei Yamaguchi, Claude
 
 import torch
 

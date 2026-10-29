@@ -1,6 +1,5 @@
 # @file noted_quant_sima_attention.py
 # @brief The SimA attention of quaver that also notes its quantized attention map for tensight
-# @author Kohei Yamaguchi, Claude
 
 import tensight
 import torch

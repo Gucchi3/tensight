@@ -1,6 +1,5 @@
 # @file pattern.py
 # @brief Patterns of maps in the einops style, and their presets (FR-035, ADR-012)
-# @author Kohei Yamaguchi, Claude
 
 from dataclasses import replace
 

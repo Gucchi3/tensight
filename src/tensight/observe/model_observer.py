@@ -1,6 +1,5 @@
 # @file model_observer.py
 # @brief ModelObserver: the hooks on one model that hand the tensors of recorded steps to StepCollector (C-02)
-# @author Kohei Yamaguchi, Claude
 
 from collections.abc   import Sequence
 from functools         import partial

@@ -1,6 +1,5 @@
 # @file message.py
 # @brief Warnings of tensight, shown once for each text (NFR-008)
-# @author Kohei Yamaguchi, Claude
 
 import warnings
 

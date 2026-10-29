@@ -1,6 +1,5 @@
 # @file sima_layer.py
 # @brief FP32 attention layer: SimA attention with a residual add
-# @author Kohei Yamaguchi, Claude
 
 from torch import nn
 

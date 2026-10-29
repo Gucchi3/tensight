@@ -1,6 +1,5 @@
 # @file values.py
 # @brief The values to compute with, for each data type (FR-039, 02a 4章)
-# @author Kohei Yamaguchi, Claude
 
 import torch
 

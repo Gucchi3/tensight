@@ -1,6 +1,5 @@
 # @file record_writer.py
 # @brief RecordWriter: prepares the run folder and writes the records in another thread (C-05)
-# @author Kohei Yamaguchi, Claude
 
 from base64    import b64encode
 from datetime  import datetime

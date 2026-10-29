@@ -1,6 +1,5 @@
 # @file quant_sima_layer.py
 # @brief Quantized attention layer: SimA attention and an INT8 residual add on one shared scale, with integer math only (from example/cnn_vit of quaver)
-# @author Kohei Yamaguchi, Claude
 
 from torch import nn
 

@@ -1,6 +1,5 @@
 // @file tensight_core.js
 // @brief Functions of the viewer that do not use the DOM (03 U-037 to U-044, U-053, U-054); Node.js tests them
-// @author Kohei Yamaguchi, Claude
 //
 // The page loads this file with a classic script tag before tensight.js (ADR-001).
 // In Node.js, require() returns the same functions (module.exports).

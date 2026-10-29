@@ -1,6 +1,5 @@
 # @file registry.py
 # @brief The readers of quantization libraries, in the order to try them (FR-017)
-# @author Kohei Yamaguchi, Claude
 
 from ..types         import Adapter
 from .quaver_adapter import QuaverAdapter

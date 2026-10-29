@@ -1,6 +1,5 @@
 # @file main.py
 # @brief Train a small CNN + attention on CIFAR-10 on the CPU in FP32, fine-tune it with QAT (quaver, INT8), and record both trainings with tensight
-# @author Kohei Yamaguchi, Claude
 
 from pathlib import Path
 

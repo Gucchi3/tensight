@@ -1,6 +1,5 @@
 # @file sima_attention.py
 # @brief FP32 SimA attention with a BatchNorm after each 1x1 conv (from example/cnn_vit of quaver), noting its attention map for tensight
-# @author Kohei Yamaguchi, Claude
 
 from torch import nn
 

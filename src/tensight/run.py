@@ -1,6 +1,5 @@
 # @file run.py
 # @brief Start, step, and close a run (02a API-01, API-03, API-04, API-05, API-08)
-# @author Kohei Yamaguchi, Claude
 
 from collections.abc import Mapping, Sequence
 from datetime        import datetime

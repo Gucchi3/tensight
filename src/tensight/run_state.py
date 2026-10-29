@@ -1,6 +1,5 @@
 # @file run_state.py
 # @brief RunState: the state of one run, and how its steps go on (C-01)
-# @author Kohei Yamaguchi, Claude
 
 from pathlib import Path
 

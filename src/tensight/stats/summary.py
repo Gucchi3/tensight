@@ -1,6 +1,5 @@
 # @file summary.py
 # @brief Statistics, distribution, first values, element values and the map of one tensor (FR-008 to FR-010, FR-032, FR-035)
-# @author Kohei Yamaguchi, Claude
 
 import math
 import torch

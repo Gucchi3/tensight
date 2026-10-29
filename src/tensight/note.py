@@ -1,6 +1,5 @@
 # @file note.py
 # @brief Record a tensor in the middle of a forward, with a name (02a API-06)
-# @author Kohei Yamaguchi, Claude
 
 import re
 

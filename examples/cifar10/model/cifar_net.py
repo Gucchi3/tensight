@@ -1,6 +1,5 @@
 # @file cifar_net.py
 # @brief FP32 model for CIFAR-10: two conv layers that make 64 tokens, one SimA attention layer, and a linear classifier
-# @author Kohei Yamaguchi, Claude
 
 from torch import nn
 

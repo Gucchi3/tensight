@@ -1,6 +1,5 @@
 # @file types.py
 # @brief Data containers of the statistics (C-03)
-# @author Kohei Yamaguchi, Claude
 
 from dataclasses import dataclass
 

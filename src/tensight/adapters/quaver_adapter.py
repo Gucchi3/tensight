@@ -1,6 +1,5 @@
 # @file quaver_adapter.py
 # @brief QuaverAdapter: reads the quantizers and the quantized values of quaver (C-04, ADR-004)
-# @author Kohei Yamaguchi, Claude
 
 from torch  import nn
 from typing import Any, cast

@@ -1,6 +1,5 @@
 # @file quant_cifar_net.py
 # @brief Quantized CifarNet made from the quaver samples (INT8 weights and activations), with integer math only
-# @author Kohei Yamaguchi, Claude
 
 from torch import nn
 

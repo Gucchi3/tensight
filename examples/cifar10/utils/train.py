@@ -1,6 +1,5 @@
 # @file train.py
 # @brief Train and test a model on the CIFAR-10 tensors on the CPU, ending every step with tensight.run_step()
-# @author Kohei Yamaguchi, Claude
 
 from collections.abc import Callable
 from torch           import nn

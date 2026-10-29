@@ -1,6 +1,5 @@
 # @file capture.py
 # @brief Whether a CUDA graph is being captured or torch.compile is compiling (ADR-003, ADR-016)
-# @author Kohei Yamaguchi, Claude
 
 import torch
 

@@ -1,6 +1,5 @@
 # @file step_collector.py
 # @brief StepCollector: gathers the summaries of one step, and hands them to the writer at its end (C-03)
-# @author Kohei Yamaguchi, Claude
 
 import dataclasses
 import math

@@ -1,6 +1,5 @@
 # @file adapter.py
 # @brief Add a reader of a quantization library (02a API-07)
-# @author Kohei Yamaguchi, Claude
 
 from .adapters import registry_add
 from .types    import Adapter

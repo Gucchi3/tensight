@@ -1,6 +1,5 @@
 # @file types.py
 # @brief Data containers shared by every part of tensight
-# @author Kohei Yamaguchi, Claude
 
 from dataclasses import dataclass
 from pathlib     import Path

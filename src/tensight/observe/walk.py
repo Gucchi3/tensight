@@ -1,6 +1,5 @@
 # @file walk.py
 # @brief How nested values are walked to find tensors, and the converters of unknown types (FR-002, 02a 4章)
-# @author Kohei Yamaguchi, Claude
 
 from collections.abc import Callable, Mapping, Sequence
 from typing          import Any

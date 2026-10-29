@@ -1,6 +1,5 @@
 # @file glob.py
 # @brief Name patterns with "*" and "?" (02a API-01 points and maps)
-# @author Kohei Yamaguchi, Claude
 
 import functools
 import re

@@ -1,6 +1,5 @@
 # @file line.py
 # @brief One line of the record folder, and the items of one record (02c)
-# @author Kohei Yamaguchi, Claude
 
 from base64          import b64encode
 from collections.abc import Mapping

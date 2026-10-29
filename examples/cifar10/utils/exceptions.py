@@ -1,6 +1,5 @@
 # @file exceptions.py
 # @brief Error of the example: show the message on stderr and stop with a code
-# @author Kohei Yamaguchi, Claude
 
 ##########################################################
 '''

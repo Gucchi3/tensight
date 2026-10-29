@@ -1,6 +1,5 @@
 # @file converter.py
 # @brief Register a converter that takes tensors out of values of an unknown type (02a API-10)
-# @author Kohei Yamaguchi, Claude
 
 from collections.abc import Callable
 from typing          import Any

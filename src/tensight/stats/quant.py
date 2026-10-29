@@ -1,6 +1,5 @@
 # @file quant.py
 # @brief The summary of quantization, and the moves near the boundaries (FR-012 to FR-015, FR-031)
-# @author Kohei Yamaguchi, Claude
 
 import math
 import torch

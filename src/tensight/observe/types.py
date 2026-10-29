@@ -1,6 +1,5 @@
 # @file types.py
 # @brief Data containers of the observation (C-02)
-# @author Kohei Yamaguchi, Claude
 
 from dataclasses import dataclass
 

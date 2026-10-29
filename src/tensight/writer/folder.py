@@ -1,6 +1,5 @@
 # @file folder.py
 # @brief The record folder, the run folders, and runs.js (02c EXT-01)
-# @author Kohei Yamaguchi, Claude
 
 from collections.abc import Mapping
 from datetime        import datetime

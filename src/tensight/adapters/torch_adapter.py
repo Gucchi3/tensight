@@ -1,6 +1,5 @@
 # @file torch_adapter.py
 # @brief TorchAdapter: reads PyTorch quantized tensors (C-04)
-# @author Kohei Yamaguchi, Claude
 
 from torch  import nn
 from typing import Any
